@@ -1,7 +1,7 @@
 <template>
   <div id="q-app">
-    <div align="center" style="margin-top: 10%;">
-      <q-card inline style="width: 50%; padding: 20px" align="center" >
+    <div align="center" style="margin: 2%;">
+      <q-card inline style="width: 100%; padding: 20px" align="center" >
         <q-card-title>
           Cadastrar Usuário
         </q-card-title>

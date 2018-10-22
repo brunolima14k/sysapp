@@ -5,9 +5,9 @@ const routes = [
     children: [
       { path: 'dashboard', component: () => import('pages/Index.vue') },
       { path: '', component: () => import('pages/Principal.vue') },
-      { path: 'teste', component: () => import('pages/Teste.vue') },
+      { path: 'exibicao', component: () => import('pages/Exibicao.vue') },
       { path: 'horario', component: () => import('pages/Horario.vue') },
-      { path: '/cadastro', component: () => import('pages/Cadastro.vue') }
+      { path: 'cadastro', component: () => import('pages/Cadastro.vue') }
     ]
   },
   {

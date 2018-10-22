@@ -28,13 +28,13 @@
           <q-item-side icon="calendar_today" />
           <q-item-main label="Horários" />
         </q-item>
-        <q-item class="item-menu" to="/teste">
-          <q-item-side icon="home" />
-          <q-item-main label="Teste" />
+        <q-item class="item-menu" to="/Exibicao">
+          <q-item-side icon="find_in_page" />
+          <q-item-main label="Exibir" />
         </q-item>
         <q-item class="item-menu" to="/Cadastro">
           <q-item-side icon="assignment_ind" />
-          <q-item-main label="Cadastro" />
+          <q-item-main label="Cadastrar" />
         </q-item>
       </q-list>
     </q-layout-drawer>

@@ -10,7 +10,7 @@
 <script>
 import axios from 'axios'
 export default {
-  name: 'Teste',
+  name: 'Exibicao',
   data: function () {
     return {
       pessoas: [],
